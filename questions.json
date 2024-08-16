@@ -1,0 +1,62 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "In a rectangle, which of the following is true about the diagonals?",
+    "options": [
+      "They are perpendicular to each other.",
+      "They bisect each other and are of equal length.",
+      "They are parallel to each other.",
+      "They do not intersect."
+    ],
+    "correct": 1,
+    "img": "./assests/images/1.jpg"
+  },
+  {
+    "questionNo": "Q2",
+    "question": "A quadrilateral with one pair of parallel sides is called a:",
+    "options": [
+      "Rhombus",
+      "Rectangle",
+      "Parallelogram",
+      "Trapezium"
+    ],
+    "correct": 3,
+    "img": "./assests/images/2.jpg"
+  },
+  {
+    "questionNo": "Q3",
+    "question": "What is the sum of the interior angles of a quadrilateral?",
+    "options": [
+      "180 degrees",
+      "360 degrees",
+      "540 degrees",
+      "720 degrees"
+    ],
+    "correct": 1,
+    "img": "./assests/images/3.jpg"
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Which of the following shapes is a type of quadrilateral?",
+    "options": [
+      "Triangle",
+      "Pentagon",
+      "Rectangle",
+      "Circle"
+    ],
+    "correct": 2,
+    "img": "./assests/images/4.jpg"
+  },
+  {
+    "questionNo": "Q5",
+    "question": "In a square, what is true about all sides?",
+    "options": [
+      "All sides are different lengths.",
+      "All sides are equal in length.",
+      "Only two sides are equal in length.",
+      "No sides are equal."
+    ],
+    "correct": 1,
+    "img": "./assests/images/5.jpg"
+  }
+]
